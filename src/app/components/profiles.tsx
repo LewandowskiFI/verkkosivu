@@ -1,6 +1,6 @@
 import { Award, Briefcase, Star } from "lucide-react";
-const profile1Image = "/home/server/verkkosivu/src/assets/3dbbbc5bbc26a65be7e19642f5b174696d4b0deb.png";
-const profile2Image = "/home/server/verkkosivu/src/assets/82aab003f739cade327fd47fa8595301268581db.png";
+import profile1Image from "../../assets/3dbbbc5bbc26a65be7e19642f5b174696d4b0deb.png";
+import profile2Image from "../../assets/82aab003f739cade327fd47fa8595301268581db.png";
 
 const profiles = [
   {

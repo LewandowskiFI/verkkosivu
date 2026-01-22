@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-const heroImage = "/home/server/verkkosivu/src/assets/437e46ef67ab27ef8b3f9e7f658af686d123cadb.png";
+import heroImage from "../../assets/437e46ef67ab27ef8b3f9e7f658af686d123cadb.png";
 
 export function Hero() {
   const scrollToContact = () => {

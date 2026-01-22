@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Mail, Phone, Send, CheckCircle } from "lucide-react";
-const contactImage = "/home/server/verkkosivu/src/assets/a76ae0eebf926565236229bfa7db14221afb9e5b.png";
+import contactImage from "../../assets/a76ae0eebf926565236229bfa7db14221afb9e5b.png";
 
 export function Contact() {
   const [formData, setFormData] = useState({
