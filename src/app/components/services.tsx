@@ -1,5 +1,5 @@
 import { Users, Calendar, Rocket, MapPin, Briefcase, Sparkles } from "lucide-react";
-import jokuNimi from "@/assets/e04ba332253193060d3da2e1d6b19d1e4e313e15.png";
+const servicesImage = "/home/server/verkkosivu/src/assets/e04ba332253193060d3da2e1d6b19d1e4e313e15.png";
 
 const services = [
   {

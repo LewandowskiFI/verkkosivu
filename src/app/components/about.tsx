@@ -1,4 +1,4 @@
-import aboutImage from "figma:asset/9c6801b56c09937c432af13fa7e7a639c26bd65e.png";
+const aboutImage = "/home/server/verkkosivu/src/assets/9c6801b56c09937c432af13fa7e7a639c26bd65e.png";
 
 export function About() {
   return (
